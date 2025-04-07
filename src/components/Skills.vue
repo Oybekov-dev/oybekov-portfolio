@@ -11,6 +11,7 @@
         <li>Vuex</li>
         <li>Prime vue</li>
         <li>GitHub</li>
+        <li>Figma</li>
       </ul>
     </div>
   </section>
