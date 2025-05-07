@@ -3,16 +3,20 @@
     <div class="container">
       <h2>Projects</h2>
       <div class="projects-list">
-        <div class="project-item">
+        <a href="https://sinov-admin.ongila.uz/">
+          <div class="project-item">
           <img src="/ongila.jpg" alt="Project 1 Image" class="project-img" />
           <h3>OngIla Admin panel</h3>
           <p>OngIla MCHJning admin paneli</p>
         </div>
-        <div class="project-item">
+        </a>
+        <a href="https://clockstream.netlify.app/">
+          <div class="project-item">
           <img src="/clockstream.jpg" alt="Project 2 Image" class="project-img" />
           <h3>Clockstream</h3>
           <p>Vaqt va sanani ko'rsatuvchi sayt</p>
         </div>
+        </a>
       </div>
     </div>
   </section>

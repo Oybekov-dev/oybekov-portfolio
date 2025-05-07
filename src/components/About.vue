@@ -8,15 +8,23 @@
           <div class="about-groups">
             <div class="about-group1">
               <div class="about-box">
-                <h3>🧑 Shaxsiy Ma’lumot</h3>
+                <h3>👤 Shaxsiy Ma’lumot</h3>
                 <p>
-                  Ismim <strong>Asilbek Oybekov</strong>, 2008-yilda tug‘ilganman. O‘zbekiston Respublikasi, <a href="https://maps.app.goo.gl/zzFXpNrUSpTF1Wqo9" target="_blank">Andijon</a> viloyatida yashayman.
+                  Ismim <strong>Asilbek Oybekov</strong>, 2008-yilda
+                  tug‘ilganman. O‘zbekiston Respublikasi,
+                  <a
+                    href="https://maps.app.goo.gl/zzFXpNrUSpTF1Wqo9"
+                    target="_blank"
+                    >Andijon</a
+                  >
+                  viloyatida yashayman.
                 </p>
               </div>
               <div class="about-box">
                 <h3>🎓 Ta’lim</h3>
                 <p>
-                  2023–2024-yillarda <strong>Unique</strong> o‘quv markazida <strong>Frontend</strong> yo‘nalishi bo‘yicha tahsil oldim.
+                  2023–2024-yillarda <strong>Unique</strong> o‘quv markazida
+                  <strong>Frontend</strong> yo‘nalishi bo‘yicha tahsil oldim.
                   Web texnologiyalarni chuqur o‘rgandim.
                 </p>
               </div>
@@ -25,13 +33,18 @@
               <div class="about-box">
                 <h3>💼 Ish tajribasi</h3>
                 <p>
-                  2025-yildan boshlab <a href="https://ongila.uz" target="_blank">Ongila MCHJ</a> Frontend jamoasiga qo‘shildim. Hozirda
-                  zamonaviy web interfeyslar ustida ishlayapman.
+                  2025-yildan boshlab
+                  <a href="https://ongila.uz" target="_blank">Ongila MCHJ</a>
+                  Frontend jamoasiga qo‘shildim. Hozirda zamonaviy web
+                  interfeyslar ustida ishlayapman.
                 </p>
               </div>
               <div class="about-box">
                 <h3>🚀 Maqsadlar</h3>
-                <p>Yangi texnologiyalarni o‘rganishga qiziqaman, foydalanuvchi tajribasini yaxshilovchi ilovalar yaratish maqsadim.</p>
+                <p>
+                  Yangi texnologiyalarni o‘rganishga qiziqaman, foydalanuvchi
+                  tajribasini yaxshilovchi ilovalar yaratish maqsadim.
+                </p>
               </div>
             </div>
           </div>
