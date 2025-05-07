@@ -10,7 +10,7 @@
               <div class="about-box">
                 <h3>🧑 Shaxsiy Ma’lumot</h3>
                 <p>
-                  Ismim <strong>Asilbek Oybekov</strong>, 2008-yilda tug‘ilganman. O‘zbekiston Respublikasi, Andijon viloyatida yashayman.
+                  Ismim <strong>Asilbek Oybekov</strong>, 2008-yilda tug‘ilganman. O‘zbekiston Respublikasi, <a href="https://maps.app.goo.gl/zzFXpNrUSpTF1Wqo9" target="_blank">Andijon</a> viloyatida yashayman.
                 </p>
               </div>
               <div class="about-box">
