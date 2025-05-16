@@ -30,6 +30,9 @@
         <li>
           <a href="https://www.figma.com/" target="_blank">Figma</a>
         </li>
+        <li>
+          <a href="https://pinia.vuejs.org/" target="_blank">Pinia</a>
+        </li>
       </ul>
     </div>
   </section>

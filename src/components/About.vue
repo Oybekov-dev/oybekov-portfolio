@@ -10,7 +10,7 @@
               <div class="about-box">
                 <h3>👤 Shaxsiy Ma’lumot</h3>
                 <p>
-                  Ismim <strong>Asilbek Oybekov</strong>, 2008-yilda
+                  Men <strong>Asilbek Oybekov</strong>, 2008-yilda
                   tug‘ilganman. O‘zbekiston Respublikasi,
                   <a
                     href="https://maps.app.goo.gl/zzFXpNrUSpTF1Wqo9"
@@ -42,8 +42,8 @@
               <div class="about-box">
                 <h3>🚀 Maqsadlar</h3>
                 <p>
-                  Yangi texnologiyalarni o‘rganishga qiziqaman, foydalanuvchi
-                  tajribasini yaxshilovchi ilovalar yaratish maqsadim.
+                  Yangi texnologiyalarni o‘rganishga qiziqaman.
+                  Mening maqsadim qobiliyatli dasturchilardan iborat jamoa tuzish.
                 </p>
               </div>
             </div>
