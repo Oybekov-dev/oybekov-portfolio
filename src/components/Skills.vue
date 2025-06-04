@@ -33,6 +33,9 @@
         <li>
           <a href="https://pinia.vuejs.org/" target="_blank">Pinia</a>
         </li>
+        <li>
+          <a href="https://pinia.vuejs.org/" target="_blank">CorelDraw</a>
+        </li>
       </ul>
     </div>
   </section>
